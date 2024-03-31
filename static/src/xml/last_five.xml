@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<t t-name="rec_list.last_five" inherit_id="web.assets_backend">
+    <xpath expr="." position="inside">
+        <script type="module" src="/rec_list/static/src/js/last_five.js"/>
+    </xpath>
+</t>

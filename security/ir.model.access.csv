@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+visit_record.access_visit_record_visit_record,access_visit_record_visit_record,rec_list.model_visit_record_visit_record,base.group_user,1,1,1,1

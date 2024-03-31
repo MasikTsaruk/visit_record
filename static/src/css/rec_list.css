@@ -1,0 +1,30 @@
+.mk_apps_sidebar_logo {
+    position: sticky;
+    bottom: 0;
+    background-color: #1d263e;
+}
+.unSortList {
+  display: block;
+  position: sticky;
+  top: 0;
+  left: 0;
+  min-width: 160px;
+  list-style-type: none;
+  padding: 0;
+
+
+}
+
+.unSortList li {
+  display: block;
+  text-decoration: none;
+  color: black;
+  overflow: visible;
+  grid-row: 1;
+}
+
+.unPinned {
+  list-style-type: none;
+  left: 0;
+  padding: 0;
+}
